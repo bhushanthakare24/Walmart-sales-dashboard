@@ -1,17 +1,17 @@
-# Walmart Sales Dashboard 📊
+# Walmart Sales Dashboard 
 
-## 📌 Project Overview
+## Project Overview
 This project is an **interactive Walmart sales dashboard** created entirely in **Microsoft Excel**.  
 It analyzes Walmart’s sales data to provide insights into revenue trends, branch performance, product category contributions, payment methods, promotional sales impact, and forecast accuracy.
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 ![Walmart Sales Dashboard](Walmart_Dashboard.png)
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 The dataset (`Walmart_Sales_Data_Filtered_Project.xlsx`) contains:
 - Transaction Date  
 - Branch Location  
@@ -26,7 +26,7 @@ Data cleaning, preparation, and visualization were **all done in Excel** using p
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 - **Total Revenue:** 15.26M  
 - **Total Units Sold:** 14.9K  
 - **Number of Transactions:** 5K  
@@ -38,7 +38,7 @@ Data cleaning, preparation, and visualization were **all done in Excel** using p
 
 ---
 
-## 🛠 Tools & Techniques Used
+## Tools & Techniques Used
 - **Microsoft Excel**
   - Pivot Tables & Pivot Charts  
   - Slicers for interactivity  
@@ -47,7 +47,7 @@ Data cleaning, preparation, and visualization were **all done in Excel** using p
 
 ---
 
-## 📈 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & Transformation in Excel  
 - Dashboard Design & Layout  
 - Interactive Data Visualization  
